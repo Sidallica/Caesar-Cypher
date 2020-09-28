@@ -1,5 +1,5 @@
 # Caesar-Cypher
-## CS50 Problwm
+## CS50 Problem
 
 Implement a program that encrypts messages using Caesar’s cipher, per the below.
 
